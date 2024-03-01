@@ -8,7 +8,7 @@ The program contains:
 - Class **"Client"** with four private fields;
 - Class **"Client"** with constructor;
 - Class **"Client"** which contains getters and setters for each of the fields;
-- Class **"Cleint"** which contains overridden method **"toString"**;
+- Class **"Client"** which contains overridden method **"toString"**;
 - Class **"Order"** with four private fields;
 - Class **"Order"** with constructor;
 - Class **"Order"** which contains getters and setters for each of the fields;
